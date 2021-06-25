@@ -1,0 +1,9 @@
+.gradle
+.idea
+build
+.DS_Store
+node_modules
+bower_components
+classes
+dist
+*.iml
